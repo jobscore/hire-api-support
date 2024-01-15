@@ -1,10 +1,24 @@
-# JobScore Hire API support for developers
+<div align="center">
+  <a href="https://developer.jobscore.com/">
+    <img src="logo.png" width="200px" height="200px" />
+  </a>
 
-This is a repository that can be used to reach out to JobScore software
-engineers about any feature request, bug report or questions that you may have
-about the [JobScore Hire API](https://developer.jobscore.com/), including
-[webhooks](https://developer.jobscore.com/#webhooks).
+  <h1>JobScore Hire API support for developers</h1>
 
-Please, browse the [existing issues](https://github.com/jobscore/hire-api-support/issues)
-to see if your doubt was already answered. Otherwise, feel free to
-[open a new issue](https://github.com/jobscore/hire-api-support/issues/new).
+  <p>
+    This is a repository that can be used to reach out to JobScore software
+    engineers about any feature requests, bug reports or questions that you may
+    have about the <a href="https://developer.jobscore.com/">JobScore Hire API</a>,
+    including <a href="https://developer.jobscore.com/#webhooks">webhooks</a>.
+  </p>
+
+  <p>
+    Browse the <a href="https://github.com/jobscore/hire-api-support/issues">existing issues</a>
+    to see if your doubt was already answered. Otherwise, feel free to
+    <a href="https://github.com/jobscore/hire-api-support/issues/new">open a new issue</a>.
+  </p>
+
+  <p>
+    <a href="https://www.jobscore.com/">Website</a> | <a href="https://developer.jobscore.com/">API Documentation</a> | <a href="https://twitter.com/jobscore">Twitter</a> | <a href="https://www.linkedin.com/company/jobscore/">LinkedIn</a>
+  </p>
+</div>
