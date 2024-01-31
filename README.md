@@ -14,7 +14,7 @@
 
   <p>
     Browse the <a href="https://github.com/jobscore/hire-api-support/issues">existing issues</a>
-    to see if your doubt was already answered. Otherwise, feel free to
+    to see if your question has already been answered. Otherwise, feel free to
     <a href="https://github.com/jobscore/hire-api-support/issues/new">open a new issue</a>.
   </p>
 
